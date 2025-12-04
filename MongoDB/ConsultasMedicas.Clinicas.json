@@ -10,5 +10,61 @@
   "nome": "Visão Recife",
   "endereco": "Av. Governador Agamenon Magalhães, 810",
   "telefone": "(81) 3042-1112",
-  "email": "visaorecife@mall.com"
+  "email": "visaorecife@mail.com"
+},
+{
+  "_id": "0000003",
+  "nome": "Clínica Boa Vista",
+  "endereco": "Rua do Hospício, 123, Boa Vista",
+  "telefone": "(81) 3221-4567",
+  "email": "boavista@mail.com"
+},
+{
+  "_id": "0000004",
+  "nome": "Centro Médico Norte",
+  "endereco": "Rua da Aurora, 200, Santo Amaro",
+  "telefone": "(81) 3241-8899",
+  "email": "cmnorte@mail.com"
+},
+{
+  "_id": "0000005",
+  "nome": "Hospital São Paulo",
+  "endereco": "Rua Imperial, 789, São José",
+  "telefone": "(81) 3423-5566",
+  "email": "hsaopaulo@mail.com"
+},
+{
+  "_id": "0000006",
+  "nome": "Clínica Esperança",
+  "endereco": "Av. Norte, 2345, Casa Amarela",
+  "telefone": "(81) 3268-7788",
+  "email": "esperanca@mail.com"
+},
+{
+  "_id": "0000007",
+  "nome": "MedCenter Recife",
+  "endereco": "Rua do Príncipe, 500, Boa Vista",
+  "telefone": "(81) 3424-1122",
+  "email": "medcenter@mail.com"
+},
+{
+  "_id": "0000008",
+  "nome": "Clínica Vitória",
+  "endereco": "Av. Domingos Ferreira, 4567, Boa Viagem",
+  "telefone": "(81) 3465-3322",
+  "email": "vitoria@mail.com"
+},
+{
+  "_id": "0000009",
+  "nome": "Hospital da Criança",
+  "endereco": "Rua João de Barros, 456, Recife",
+  "telefone": "(81) 3423-7766",
+  "email": "hcrianca@mail.com"
+},
+{
+  "_id": "0000010",
+  "nome": "Saúde Total",
+  "endereco": "Rua da Hora, 876, Espinheiro",
+  "telefone": "(81) 3241-5544",
+  "email": "saudetotal@mail.com"
 }]
